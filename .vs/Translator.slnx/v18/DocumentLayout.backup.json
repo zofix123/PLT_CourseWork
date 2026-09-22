@@ -3,40 +3,52 @@
   "WorkspaceRootPath": "C:\\VS Projects\\TPL\\Translator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\delimitertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\delimitertype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\mainform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{39B9D3AF-7E09-4A68-92E8-679D8C3C6620}|Translator\\Translator.csproj|C:\\VS Projects\\TPL\\Translator\\translator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{39B9D3AF-7E09-4A68-92E8-679D8C3C6620}|Translator\\Translator.csproj|solutionrelative:translator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\translator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\translator.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\operatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\operatortype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\tokens\\vartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\tokens\\vartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\operatortoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\operatortoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\lexemeparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\lexemeparser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\keywordtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\keywordtype.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\tokens\\delimitertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\tokens\\delimitertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\keywordtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\keywordtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\tokens\\operatortoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\tokens\\operatortoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\integertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\integertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\tokens\\keywordtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\tokens\\keywordtoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\vartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\vartoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\tokens\\integertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\tokens\\integertoken.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\variable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\model.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|c:\\vs projects\\tpl\\translator\\translator\\tokens\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2AEF3036-7E51-C927-1545-AE7DDB288E24}|Translator\\Translator.csproj|solutionrelative:translator\\tokens\\token.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -51,110 +63,157 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "DelimiterType.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\DelimiterType.cs",
-              "RelativeDocumentMoniker": "Translator\\DelimiterType.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\DelimiterType.cs",
-              "RelativeToolTip": "Translator\\DelimiterType.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAUAAAAAAAAAA==",
+              "Title": "MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\MainForm.cs",
+              "RelativeDocumentMoniker": "Translator\\MainForm.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "RelativeToolTip": "Translator\\MainForm.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:16:26.496Z",
+              "WhenOpened": "2026-09-16T09:52:01.421Z",
+              "EditorCaption": " [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "KeywordToken.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\KeywordToken.cs",
+              "RelativeDocumentMoniker": "Translator\\Tokens\\KeywordToken.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\KeywordToken.cs",
+              "RelativeToolTip": "Translator\\Tokens\\KeywordToken.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAYwBsAAABXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T06:01:37.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IntegerToken.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\IntegerToken.cs",
+              "RelativeDocumentMoniker": "Translator\\Tokens\\IntegerToken.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\IntegerToken.cs",
+              "RelativeToolTip": "Translator\\Tokens\\IntegerToken.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:59:39.19Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "OperatorType.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\OperatorType.cs",
-              "RelativeDocumentMoniker": "Translator\\OperatorType.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\OperatorType.cs",
-              "RelativeToolTip": "Translator\\OperatorType.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Title": "VarToken.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\VarToken.cs",
+              "RelativeDocumentMoniker": "Translator\\Tokens\\VarToken.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\VarToken.cs",
+              "RelativeToolTip": "Translator\\Tokens\\VarToken.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAwAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:09:24.941Z"
+              "WhenOpened": "2026-09-14T05:50:05.348Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "OperatorToken.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\OperatorToken.cs",
-              "RelativeDocumentMoniker": "Translator\\OperatorToken.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\OperatorToken.cs",
-              "RelativeToolTip": "Translator\\OperatorToken.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAaAAAAAAAAAA==",
+              "Title": "LexemeParser.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\LexemeParser.cs",
+              "RelativeDocumentMoniker": "Translator\\LexemeParser.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\LexemeParser.cs",
+              "RelativeToolTip": "Translator\\LexemeParser.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAQwD8AAAAeAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:09:11.381Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "KeywordType.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\KeywordType.cs",
-              "RelativeDocumentMoniker": "Translator\\KeywordType.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\KeywordType.cs",
-              "RelativeToolTip": "Translator\\KeywordType.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:05:30.347Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "KeywordToken.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\KeywordToken.cs",
-              "RelativeDocumentMoniker": "Translator\\KeywordToken.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\KeywordToken.cs",
-              "RelativeToolTip": "Translator\\KeywordToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T06:01:37.031Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IntegerToken.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\IntegerToken.cs",
-              "RelativeDocumentMoniker": "Translator\\IntegerToken.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\IntegerToken.cs",
-              "RelativeToolTip": "Translator\\IntegerToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA5AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T05:59:39.19Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "VarToken.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\VarToken.cs",
-              "RelativeDocumentMoniker": "Translator\\VarToken.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\VarToken.cs",
-              "RelativeToolTip": "Translator\\VarToken.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABRAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T05:50:05.348Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Token.cs",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Token.cs",
-              "RelativeDocumentMoniker": "Translator\\Token.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Token.cs",
-              "RelativeToolTip": "Translator\\Token.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAABAAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T05:48:34.723Z"
+              "WhenOpened": "2026-09-16T07:30:36.331Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Form1.cs",
-              "RelativeDocumentMoniker": "Translator\\Form1.cs",
-              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
-              "RelativeToolTip": "Translator\\Form1.cs [\u041A\u043E\u043D\u0441\u0442\u0440\u0443\u043A\u0442\u043E\u0440]",
+              "Title": "Translator",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Translator.csproj",
+              "RelativeDocumentMoniker": "Translator\\Translator.csproj",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Translator.csproj",
+              "RelativeToolTip": "Translator\\Translator.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-09-16T07:29:09.514Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OperatorToken.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\OperatorToken.cs",
+              "RelativeDocumentMoniker": "Translator\\Tokens\\OperatorToken.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\OperatorToken.cs",
+              "RelativeToolTip": "Translator\\Tokens\\OperatorToken.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwA8AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-09-14T05:48:08.892Z"
+              "WhenOpened": "2026-09-14T06:09:11.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DelimiterToken.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\DelimiterToken.cs",
+              "RelativeDocumentMoniker": "Translator\\Tokens\\DelimiterToken.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\DelimiterToken.cs",
+              "RelativeToolTip": "Translator\\Tokens\\DelimiterToken.cs",
+              "ViewState": "AgIAABQAAAAAAAAAAAAgwBUAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:05:00.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Variable.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Variable.cs",
+              "RelativeDocumentMoniker": "Translator\\Variable.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Variable.cs",
+              "RelativeToolTip": "Translator\\Variable.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:30:25.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Program.cs",
+              "RelativeDocumentMoniker": "Translator\\Program.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Program.cs",
+              "RelativeToolTip": "Translator\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:10:45.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Model.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Model.cs",
+              "RelativeDocumentMoniker": "Translator\\Model.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Model.cs",
+              "RelativeToolTip": "Translator\\Model.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-16T07:29:39.991Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Token.cs",
+              "DocumentMoniker": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\Token.cs",
+              "RelativeDocumentMoniker": "Translator\\Tokens\\Token.cs",
+              "ToolTip": "C:\\VS Projects\\TPL\\Translator\\Translator\\Tokens\\Token.cs",
+              "RelativeToolTip": "Translator\\Tokens\\Token.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-09-14T05:48:34.723Z",
+              "EditorCaption": ""
             }
           ]
         }

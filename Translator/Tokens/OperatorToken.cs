@@ -18,7 +18,8 @@ namespace Translator.Tokens
             { OperatorType.Plus, "+" },
             { OperatorType.Minus, "-" },
             { OperatorType.Divide, "/" },
-            { OperatorType.Assign, "*" }
+            { OperatorType.Multiply, "*" },
+            { OperatorType.Assign, "=" }
         };
 
         public static string OperatorTypeToString(OperatorType type) => OperatorTypesNames[type];
@@ -36,6 +37,7 @@ namespace Translator.Tokens
         Plus,
         Minus,
         Divide,
+        Multiply,
         Assign
     }
  

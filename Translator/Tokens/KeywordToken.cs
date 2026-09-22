@@ -23,6 +23,7 @@ namespace Translator.Tokens
             { KeywordType.Case, "CASE" },
             { KeywordType.Of, "OF" },
             { KeywordType.Write, "WRITE" },
+            { KeywordType.For, "FOR" }
         };
 
         public static string KeywordTypeToString(KeywordType type) => KeywordTypesNames[type];
@@ -45,7 +46,8 @@ namespace Translator.Tokens
         Read,
         Case,
         Of,
-        Write
+        Write,
+        For
     }
 
 

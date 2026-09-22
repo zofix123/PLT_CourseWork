@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\VS Projects\\TPL\\Translator\\Translator\\Translator.csproj": {}
+    "C:\\VS Projects\\PLT\\Translator\\Translator\\Translator.csproj": {}
   },
   "projects": {
-    "C:\\VS Projects\\TPL\\Translator\\Translator\\Translator.csproj": {
+    "C:\\VS Projects\\PLT\\Translator\\Translator\\Translator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\VS Projects\\TPL\\Translator\\Translator\\Translator.csproj",
+        "projectUniqueName": "C:\\VS Projects\\PLT\\Translator\\Translator\\Translator.csproj",
         "projectName": "Translator",
-        "projectPath": "C:\\VS Projects\\TPL\\Translator\\Translator\\Translator.csproj",
+        "projectPath": "C:\\VS Projects\\PLT\\Translator\\Translator\\Translator.csproj",
         "packagesPath": "C:\\Users\\tvink\\.nuget\\packages\\",
-        "outputPath": "C:\\VS Projects\\TPL\\Translator\\Translator\\obj\\",
+        "outputPath": "C:\\VS Projects\\PLT\\Translator\\Translator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

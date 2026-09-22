@@ -11,16 +11,17 @@ namespace Translator
 
         public List<Token> Parse(string inputString)
         {
-            inputString.Replace("\n", " ");
-            inputString.Replace("\t", " ");
-            inputString.Replace("(", " ( ");
-            inputString.Replace(")", " ) ");
-            inputString.Replace(":", " : ");
-            inputString.Replace(";", " ; ");
-            inputString.Replace(",", " , ");
+            inputString = inputString.Replace("\n", " ");
+            inputString = inputString.Replace("\t", " ");
+            inputString = inputString.Replace("(", " ( ");
+            inputString = inputString.Replace(")", " ) ");
+            inputString = inputString.Replace(":", " : ");
+            inputString = inputString.Replace(";", " ; ");
+            inputString = inputString.Replace(",", " , ");
+            inputString = inputString.Replace("=", " = ");
             while (inputString.Contains("  "))
             {
-                inputString.Replace("  ", " ");
+                inputString = inputString.Replace("  ", " ");
             }
 
             string[] tokenList = inputString.Split(" ");
@@ -53,13 +54,14 @@ namespace Translator
                 
                 if (Regex.IsMatch(token, @"^[a-zA-Z]+$"))
                 {
-                    if (token.Length > 12)
-                        throw new Exception("Братан, не помещается, отрезай");
+                    if (token.Length > 9)
+                        throw new Exception("Ошибка: Имя переменной превышает допустимый размер");
 
                     resultList.Add(new VarToken(token));
+                    continue;
                 }
 
-                throw new Exception("Хуйня имя переменной еблан");
+                throw new Exception("Ошибка: Некорректное имя переменной");
             }
             return resultList;
         }
