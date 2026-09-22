@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Translator.Tokens
+namespace Translator.Model.Tokens
 {
     public abstract class Token(string lexeme)
     {

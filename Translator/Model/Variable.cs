@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Translator
+namespace Translator.Model
 {
     public class Variable
     {

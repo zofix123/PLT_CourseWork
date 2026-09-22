@@ -1,16 +1,17 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Text;
-using Translator.Tokens;
+using Translator.Model;
+using Translator.Model.Tokens;
 
-namespace Translator
+namespace Translator.ViewModel
 {
-    internal class ViewModel
+    public class TranslatorViewModel
     {
         public string InputText { get; set; }
         public string OutputText { get; set; }
         private readonly LexemeParser _parser;
-        public ViewModel()
+        public TranslatorViewModel()
         {
             _parser = new LexemeParser();
         }

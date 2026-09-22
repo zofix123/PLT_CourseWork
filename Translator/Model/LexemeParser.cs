@@ -2,9 +2,9 @@
 using System.Collections.Generic;
 using System.Text;
 using System.Text.RegularExpressions;
-using Translator.Tokens;
+using Translator.Model.Tokens;
 
-namespace Translator
+namespace Translator.Model
 {
     public class LexemeParser
     {
