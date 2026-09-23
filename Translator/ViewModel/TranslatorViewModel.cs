@@ -26,7 +26,7 @@ namespace Translator.ViewModel
             try
             {
                 List<Token> tokens = _parser.Parse(InputText);
-                //OutputText = FormatTokens(tokens);
+                OutputText = FormatTokens(tokens);
             }
             catch (Exception ex)
             {
@@ -34,12 +34,15 @@ namespace Translator.ViewModel
             }
         }
 
-        //private string FormatTokens(List<Token> tokens)
-        //{
-        //    foreach (var token in tokens)
-        //    {
-
-        //    }
-        //}
+        private string FormatTokens(List<Token> tokens)
+        {
+            StringBuilder sb = new StringBuilder();
+            sb.AppendLine("Лексический анализ выполнен успешно. Найдены токены:");
+            foreach (var token in tokens)
+            {
+                sb.AppendLine($"[{token.ToString()}] : {token.GetType().Name}");
+            }
+            return sb.ToString();
+        }
     }
 }

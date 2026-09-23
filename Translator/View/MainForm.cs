@@ -24,7 +24,7 @@ namespace Translator
         {
             _viewModel.InputText = textBox1.Text;
             _viewModel.ExecuteParsing();
-            label1.Text = _viewModel.OutputText;
+            OutputBox.Text = _viewModel.OutputText;
         }
     }
 }

@@ -7,5 +7,7 @@ namespace Translator.Model.Tokens
     public abstract class Token(string lexeme)
     {
         protected readonly string _lexeme = lexeme;
+
+        public override string ToString() => _lexeme;
     }
 }

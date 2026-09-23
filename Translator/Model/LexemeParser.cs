@@ -13,6 +13,7 @@ namespace Translator.Model
         {
             inputString = inputString.Replace("\n", " ");
             inputString = inputString.Replace("\t", " ");
+            inputString = inputString.Replace("\r", " ");
             inputString = inputString.Replace("(", " ( ");
             inputString = inputString.Replace(")", " ) ");
             inputString = inputString.Replace(":", " : ");

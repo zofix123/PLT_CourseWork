@@ -30,8 +30,8 @@
         {
             tableLayoutPanel1 = new TableLayoutPanel();
             textBox1 = new TextBox();
-            label1 = new Label();
             RunBtn = new Button();
+            OutputBox = new RichTextBox();
             tableLayoutPanel1.SuspendLayout();
             SuspendLayout();
             // 
@@ -43,8 +43,8 @@
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle());
             tableLayoutPanel1.ColumnStyles.Add(new ColumnStyle());
             tableLayoutPanel1.Controls.Add(textBox1, 0, 0);
-            tableLayoutPanel1.Controls.Add(label1, 0, 1);
             tableLayoutPanel1.Controls.Add(RunBtn, 1, 0);
+            tableLayoutPanel1.Controls.Add(OutputBox, 0, 1);
             tableLayoutPanel1.Location = new Point(12, 12);
             tableLayoutPanel1.Name = "tableLayoutPanel1";
             tableLayoutPanel1.RowCount = 2;
@@ -59,19 +59,8 @@
             textBox1.Location = new Point(3, 3);
             textBox1.Multiline = true;
             textBox1.Name = "textBox1";
-            textBox1.Size = new Size(810, 442);
+            textBox1.Size = new Size(810, 365);
             textBox1.TabIndex = 0;
-            // 
-            // label1
-            // 
-            label1.Anchor = AnchorStyles.Top | AnchorStyles.Bottom | AnchorStyles.Left | AnchorStyles.Right;
-            label1.BackColor = SystemColors.Window;
-            label1.BorderStyle = BorderStyle.FixedSingle;
-            label1.Location = new Point(3, 448);
-            label1.Name = "label1";
-            label1.Size = new Size(810, 126);
-            label1.TabIndex = 1;
-            label1.Text = "label1";
             // 
             // RunBtn
             // 
@@ -83,6 +72,16 @@
             RunBtn.Text = "Выполнить";
             RunBtn.UseVisualStyleBackColor = true;
             // 
+            // OutputBox
+            // 
+            OutputBox.BackColor = SystemColors.Window;
+            OutputBox.Location = new Point(3, 374);
+            OutputBox.Name = "OutputBox";
+            OutputBox.ReadOnly = true;
+            OutputBox.Size = new Size(810, 197);
+            OutputBox.TabIndex = 3;
+            OutputBox.Text = "";
+            // 
             // MainForm
             // 
             AutoScaleDimensions = new SizeF(12F, 27F);
@@ -90,7 +89,7 @@
             ClientSize = new Size(1200, 608);
             Controls.Add(tableLayoutPanel1);
             Font = new Font("Cascadia Code", 12F, FontStyle.Regular, GraphicsUnit.Point, 204);
-            Margin = new Padding(4, 4, 4, 4);
+            Margin = new Padding(4);
             Name = "MainForm";
             Text = "Транслятор";
             tableLayoutPanel1.ResumeLayout(false);
@@ -103,7 +102,7 @@
 
         private TableLayoutPanel tableLayoutPanel1;
         private TextBox textBox1;
-        private Label label1;
         private Button RunBtn;
+        private RichTextBox OutputBox;
     }
 }
