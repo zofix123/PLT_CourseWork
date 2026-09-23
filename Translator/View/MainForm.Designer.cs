@@ -71,6 +71,7 @@
             RunBtn.TabIndex = 2;
             RunBtn.Text = "Выполнить";
             RunBtn.UseVisualStyleBackColor = true;
+            RunBtn.Click += RunBtn_Click;
             // 
             // OutputBox
             // 

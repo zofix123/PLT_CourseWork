@@ -11,20 +11,23 @@ namespace Translator
 {
     public partial class MainForm : Form
     {
-        private readonly TranslatorViewModel _viewModel;
+        public event Action<string>? CodeExecuted;
+
+
         public MainForm()
         {
             InitializeComponent();
-            _viewModel = new TranslatorViewModel();
+        }
 
-            RunBtn.Click += RunBtn_Click;
+        public void SetOutput(string output)
+        {
+            OutputBox.Text = output;
+
         }
 
         private void RunBtn_Click(object sender, EventArgs e)
         {
-            _viewModel.InputText = textBox1.Text;
-            _viewModel.ExecuteParsing();
-            OutputBox.Text = _viewModel.OutputText;
+            CodeExecuted?.Invoke(textBox1.Text);
         }
     }
 }

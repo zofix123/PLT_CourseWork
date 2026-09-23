@@ -20,6 +20,7 @@ namespace Translator.Model
             inputString = inputString.Replace(";", " ; ");
             inputString = inputString.Replace(",", " , ");
             inputString = inputString.Replace("=", " = ");
+            inputString = inputString.Trim();
             while (inputString.Contains("  "))
             {
                 inputString = inputString.Replace("  ", " ");

@@ -21,6 +21,7 @@ namespace Translator.Model.Tokens
             { KeywordType.End, "END" },
             { KeywordType.Read, "READ" },
             { KeywordType.Case, "CASE" },
+            { KeywordType.EndCase, "END_CASE" },
             { KeywordType.Of, "OF" },
             { KeywordType.Write, "WRITE" },
             { KeywordType.For, "FOR" }
@@ -45,6 +46,7 @@ namespace Translator.Model.Tokens
         End,
         Read,
         Case,
+        EndCase,
         Of,
         Write,
         For

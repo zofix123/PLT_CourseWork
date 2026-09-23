@@ -8,29 +8,32 @@ namespace Translator.ViewModel
 {
     public class TranslatorViewModel
     {
-        public string InputText { get; set; }
-        public string OutputText { get; set; }
+        private readonly MainForm _view;
+
         private readonly LexemeParser _parser;
-        public TranslatorViewModel()
+        public TranslatorViewModel(MainForm view, LexemeParser parser)
         {
-            _parser = new LexemeParser();
+            _parser = parser;
+            _view = view;
+
+            _view.CodeExecuted += ExecuteParsing;
         }
-        public void ExecuteParsing() 
+        public void ExecuteParsing(string code) 
         {
-            if (string.IsNullOrWhiteSpace(InputText))
+            if (string.IsNullOrWhiteSpace(code))
             {
-                OutputText = "Введите код программы";
+                _view.SetOutput("Введите код программы");
                 return;
             }
 
             try
             {
-                List<Token> tokens = _parser.Parse(InputText);
-                OutputText = FormatTokens(tokens);
+                List<Token> tokens = _parser.Parse(code);
+                _view.SetOutput(FormatTokens(tokens));
             }
             catch (Exception ex)
             {
-                OutputText = ex.Message;
+                _view.SetOutput(ex.Message);
             }
         }
 
